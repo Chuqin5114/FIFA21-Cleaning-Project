@@ -1,5 +1,21 @@
 # FIFA 21 Player Dataset Cleaning Project
 
+### Tool Used
+![Python](https://img.shields.io/badge/Python-blue)
+
+### Project Type
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-purple)
+
+## Table of Contents
+- [Overview](overview)  
+- [Dataset](dataset)  
+- [Data Cleaning Steps](data-cleaning-steps)  
+- [Project Structure](project-structure)  
+- [Installation](installation)  
+- [Usage](usage)  
+- [Requirements](requirements)  
+- [Future Work](future-work)
+
 ## Overview
 This project focuses on cleaning the **FIFA 15–21 Complete Player Dataset** from Kaggle.  
 The dataset contains detailed player attributes such as personal information, ratings, and financial data across multiple FIFA game editions.
